@@ -1,0 +1,8 @@
+# A simple Python program
+
+# Define a function that prints a greeting message
+def say_hello(name):
+    print(f"Hello, {name}!")
+
+# Call the function with a name as an argument
+say_hello("Alice")
